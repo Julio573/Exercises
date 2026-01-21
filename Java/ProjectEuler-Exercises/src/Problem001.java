@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=1
+
 public class Problem001 {
     public static void main(String[] args) {
 
